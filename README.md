@@ -16,5 +16,4 @@ Halo! saya **Lutfiana Dwi Lestari**,siswa **SMKN 10 SEMARANG** jurusan **Rekayas
 - **3** terutama saya ingin meningkatkan ketrampilan saya pada bidang **UI/UX Design**
 
 ## Gambar 
-![Semangat PKL]
-(Semangat%20Pk1%2OOnline.jpg)
+![Semangat PKL](SemangatPklOnline.jpg)
