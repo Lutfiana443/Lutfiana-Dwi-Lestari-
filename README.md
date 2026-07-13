@@ -15,3 +15,5 @@ Halo! saya **Lutfiana Dwi Lestari**,siswa **SMKN 10 SEMARANG** jurusan **Rekayas
 - **2** saya juga berharap melalui pkl online ini saya bisa lebih mengerti alur dalam dunia kerja di industri 
 - **3** terutama saya ingin meningkatkan ketrampilan saya pada bidang **UI/UX Design**
 
+## Gambar 
+![Semangat PKL](SemangatPklOnline.jpg)
