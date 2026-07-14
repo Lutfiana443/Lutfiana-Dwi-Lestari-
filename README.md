@@ -21,5 +21,8 @@ Saya memiliki ketertarikan pada dunia desain antarmuka UI dan pengalaman penggun
 ## Motto
 "Lebih baik mencoba dan merasakan gagal,dari pada tidak mau mencoba sama sekali"
 
+## Tujuan Belajar
+Saya ingin terus mengembangkan kemampuan di bidang UI/UX Design dengan mempelajari prinsip desain, penggunaan Figma, serta membuat antarmuka yang menarik, mudah digunakan, dan memberikan pengalaman terbaik bagi pengguna.
+
 Semangat!! 
 ![Semangat PKL](SemangatPklOnline.jpg)
