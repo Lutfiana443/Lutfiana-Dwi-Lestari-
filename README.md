@@ -24,5 +24,7 @@ Saya memiliki ketertarikan pada dunia desain antarmuka UI dan pengalaman penggun
 ## Tujuan Belajar
 Saya ingin terus mengembangkan kemampuan di bidang UI/UX Design dengan mempelajari prinsip desain, penggunaan Figma, serta membuat antarmuka yang menarik, mudah digunakan, dan memberikan pengalaman terbaik bagi pengguna.
 
+* Kegiatan favorit sehari-hari: Menonton film dan membaca novel.
+
 Semangat!! 
 ![Semangat PKL](SemangatPklOnline.jpg)
